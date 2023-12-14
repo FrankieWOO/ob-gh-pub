@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
+site_name: test Ob gh publisher # Change this to your site name
 site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_url: https://frankiewoo.github.io/ob-gh-pub/ # Change this to your site URL
 
 theme:
     name: 'material'
